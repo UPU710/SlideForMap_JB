@@ -23,8 +23,8 @@ if (progress_display) {
   print("02: DEFINE INPUT PATHS AND NAMES")
 }
   
-filePath <-  "/Volumes/data-hafl/7 WWI/74b FF GNG/742b Aktuell/SlideForce/SlideforMAP/test_areas/study_area_8/Inputs/"     # the input path
-outPath <- "/Volumes/data-hafl/7 WWI/74b FF GNG/742b Aktuell/SlideForce/SlideforMAP/test_areas/study_area_8/R_outputs/"     # the output path
+filePath <-  "/Volumes/data-hafl/7 WWI/74b FF GNG/742b Aktuell/SlideForce/SlideforMAP/test_areas/study_area_1_JB/Inputs/"     # the input path
+outPath <- "/Volumes/data-hafl/7 WWI/74b FF GNG/742b Aktuell/SlideForce/SlideforMAP/test_areas/study_area_1_JB/R_outputs/"     # the output path
 
 # names of the input files
 DEMFile <-  "DEM_clipped.asc" # the name of the digital elevation model
